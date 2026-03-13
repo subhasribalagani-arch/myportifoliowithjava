@@ -50,7 +50,7 @@ https://github.com/subhasribalagani-arch/myportifoliowithjava.com
 If you would like to connect with me:
 
 * LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/
+* GitHub:https://github.com/subhasribalagani-arch/myportifoliowithjava
 
 ## ⭐ Support
 
